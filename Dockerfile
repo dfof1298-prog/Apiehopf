@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "jo2.py"]
+CMD ["python", "Jo2.py"]
