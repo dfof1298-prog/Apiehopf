@@ -3,3 +3,4 @@ httpx>=0.24.0
 fake-useragent>=1.4.0
 aiohttp
 nest_asyncio
+uvicorn
