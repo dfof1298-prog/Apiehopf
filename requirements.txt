@@ -10,3 +10,10 @@ uvicorn==0.24.0
 aiohttp==3.9.0
 psutil==5.9.6
 telebot
+telethon
+aiohttp
+aiofiles
+motor
+pymongo
+dnspython
+psutil
