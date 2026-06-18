@@ -22,7 +22,7 @@ stats_col = db["stats"]
 
 # ====================== CONFIG ======================
 BOT_TOKEN = '8991670803:AAEOu_4ZGyLFOAvtt-bjpxwPhEdNhj7pvhI'
-MAIN_BOT_USERNAME = "shopify7bot"
+MAIN_BOT_USERNAME = "Shopif7bot"
 ADMIN_ID = [1093032296, 7077116674]
 
 STAR_PLANS = {
